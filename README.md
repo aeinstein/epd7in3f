@@ -5,7 +5,7 @@ remapped pins and added watchdog trigger
 
 Pinout:
 |HAT  | NodeMCU|
-|-----|--------|
+|-----|:--------:|
 |Busy | D0 |
 |RST  | D1 |
 |DC   | D2 |

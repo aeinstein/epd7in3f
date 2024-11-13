@@ -1,5 +1,5 @@
 # epd7in3f
-7.3inch e-paper HAT for nodemcu
+Waveshare 7.3inch e-paper HAT for nodemcu
 
 remapped pins and added watchdog trigger
 
